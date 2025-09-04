@@ -7,12 +7,10 @@
       <div class="logo-text">سامانه نجوایار</div>
     </div>
     <nav ref="navElement" :class="{ active: isNavActive }">
-      <a href="#works">نحوه عملکرد</a>
-      <a href="#price">تعرفه</a>
-      <a href="#send"> ارسال پیامک</a>
-      <a href="#contact">تماس با ما</a>
-      <a href="#about">درباره ما</a>
-      <a href="#rules">شرایط استفاده و قوانین</a>
+      <a href="/#works">نحوه عملکرد</a>
+      <a href="/#price">تعرفه</a>
+      <a href="/#send"> ارسال سریع پیامک</a>
+      <a href="/terms">قوانین و شرایط استفاده</a>
 
 
     </nav>
