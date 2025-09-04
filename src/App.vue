@@ -9,23 +9,23 @@ import Description from "./components/Description.vue";
 import { useHead } from '@vueuse/head'
 
 useHead({
-  title: "سامانه نجوایار - پلتفرم مشاوره آنلاین روانشناسی",
+  title: "سامانه نجوایار",
   meta: [
     {
       name: "description",
       content:
-        "با نجوایار، بهترین مشاوران حرفه‌ای روانشناسی را پیدا کنید و جلسه آنلاین بگیرید.",
+        "با نجوایار، بهترین مشاوران حرفه‌ای  را پیدا کنید و جلسه آنلاین بگیرید.",
     },
     {
       name: "keywords",
-      content: "مشاوره روانشناسی, نجوایار, مشاور آنلاین, رواندرمانی",
+      content: "مشاوره , نجوایار, مشاور آنلاین, ",
     },
     // Open Graph / Social Sharing
     { property: "og:title", content: "سامانه نجوایار - پلتفرم مشاوره آنلاین" },
     {
       property: "og:description",
       content:
-        "با نجوایار، بهترین مشاوران حرفه‌ای روانشناسی را پیدا کنید و جلسه آنلاین بگیرید.",
+        "با نجوایار، بهترین مشاوران حرفه‌ای را پیدا کنید و جلسه آنلاین بگیرید.",
     },
     { property: "og:type", content: "website" },
     { property: "og:url", content: "https://najvayar.ir" },

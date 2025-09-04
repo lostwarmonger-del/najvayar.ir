@@ -11,6 +11,10 @@
       <a href="#price">تعرفه</a>
       <a href="#send"> ارسال پیامک</a>
       <a href="#contact">تماس با ما</a>
+      <a href="#about">درباره ما</a>
+      <a href="#rules">شرایط استفاده و قوانین</a>
+
+
     </nav>
     <button class="nav-toggle" @click="toggleNav">
       <span class="material-symbols-outlined"> menu </span>
